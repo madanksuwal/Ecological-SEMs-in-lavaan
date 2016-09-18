@@ -159,3 +159,5 @@ fit.d<-sem(model.d, sample.cov=bg.cov, sample.nobs=n, orthogonal=TRUE)
 
 summary(fit.d)
 standardizedSolution(fit.d)
+
+## Error in model B and D
